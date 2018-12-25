@@ -18,3 +18,5 @@ _notes
 node_modules/
 .idea/
 sftp-config.json
+src/**/*.js
+src/**/*.js.map

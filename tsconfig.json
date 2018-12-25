@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "outDir": "lib",
+    "target": "es5",
+    "noUnusedLocals": true,
+    "lib": ["es6", "dom"],
+    "module": "esnext",
+    "declaration": true,
+    "sourceMap": false,
+    "baseUrl": "./src",
+    "rootDir": "src"
+  },
+  "include": [
+    "src"
+  ]
+}
